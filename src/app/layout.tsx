@@ -3,8 +3,8 @@ import Navbar from "../components/navbar";
 import { Providers } from "./providers";
 
 export const metadata = {
-  title: "alex zhu",
-  description: "alex zhu's portfolio",
+  title: "Alex Zhu",
+  description: "Alex Zhu's Portfolio",
 };
 
 export default function RootLayout({
