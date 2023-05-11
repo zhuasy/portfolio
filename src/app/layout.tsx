@@ -15,9 +15,8 @@ export default function RootLayout({
   return (
     <html suppressHydrationWarning>
       <body>
-        <Navbar />
         <Providers>
-          <div className="mx-auto my-auto max-w-4xl px-5">{children}</div>
+          <div className="flex flex-col justify-center px-8">{children}</div>
         </Providers>
       </body>
     </html>
