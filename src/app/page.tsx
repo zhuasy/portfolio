@@ -38,7 +38,7 @@ export default function Home() {
               >
                 <span>👋</span>
               </motion.div>
-              <span> I'm Alex.</span>
+              <span> I&apos;m Alex.</span>
             </h2>
             <p className="font-inter text-2xl">
               <span className="relative block">
@@ -48,7 +48,9 @@ export default function Home() {
                 </span>
               </span>
               <span className="relative block">
-                <span className="text-gray-300">I'm experienced with </span>
+                <span className="text-gray-300">
+                  I&apos;m experienced with{" "}
+                </span>
                 <span className="text-white">Backend</span>
                 <span className="text-gray-300">, </span>
                 <span className="text-white">Networking</span>
@@ -58,7 +60,7 @@ export default function Home() {
               </span>
               <span className="relative block">
                 <span className="text-gray-300">
-                  Recently, I've been working with{" "}
+                  Recently, I&apos;ve been working with{" "}
                 </span>
                 <span className="text-white">Python </span>
                 <span className="text-gray-300">and </span>
